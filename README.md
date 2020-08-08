@@ -24,7 +24,7 @@
     <script src="script.js"></script>
 </body>
 </html>
-#DIFFERENT TYPES TO PRINT DOCUMENT
+/*#DIFFERENT TYPES TO PRINT DOCUMENT*/
 alert("Hello, world");
 console.log("Hello from the console.");
 alert("Thanks for visiting");
